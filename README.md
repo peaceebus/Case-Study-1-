@@ -1,2 +1,2 @@
-# Case-Study-1-
+# Case-Study-1
 DSA Project: Amazon Product Review Analysis 
