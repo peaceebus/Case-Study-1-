@@ -1,5 +1,5 @@
 # Case-Study-1
-###DSA Project: Amazon Product Review Analysis 
+### DSA Project: Amazon Product Review Analysis 
 
 **The pivot table and dashboard will be pasted via screenshot link**
 
